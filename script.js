@@ -1,1 +1,1 @@
-// javascript
+"Estoy dentro de script.js"
